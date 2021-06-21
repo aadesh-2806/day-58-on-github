@@ -7,7 +7,7 @@ class book
 	public:
 		string title;
 		string author;
-		//can call here from main
+		//can call here from main 
 		book()
 		{
 			title = "notitle";
